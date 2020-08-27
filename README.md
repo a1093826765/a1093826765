@@ -1,7 +1,8 @@
 ### Hi there 👋
 
--  👨‍💻  web前端开发(Vue,微信小程序)，目前还在校中
--  📫 联系我: heminfind@aliyun.com
+-  👨‍💻  大数据开发(java)
+-  📫 联系我: 1093826765@qq.com
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a1093826765)](https://github.com/a1093826765/note)
 
